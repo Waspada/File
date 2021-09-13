@@ -1,4 +1,4 @@
-$ clon ploat-File "this is readme.md" >> README.md
+$ clon upload-File "this is readme.md" >> README.md
 $ git init
 $ git add
 $ git add README.md
